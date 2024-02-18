@@ -10,7 +10,9 @@ Neste grafo, nós foram utilizados para representar vários aeroportos nos Estad
 ## Tecnologias Utilizadas
 - Python
 - Pandas
-- Wsl:Windows subsystem for linux 
+- Wsl:Windows subsystem for linux
+- Networkx
+- Geopy
 
 ## Executando o Código
 ![WhatsApp-Video-2024-02-18-at-15 37 28](https://github.com/nxbrx/NXBRX-airports/assets/123251524/3e830985-e25b-447b-ae79-802a9e026fe5)
