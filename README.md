@@ -1,4 +1,4 @@
-# *Implementação do Algoritmo de Kruskal em Aeroportos nos Estados Unidos
+# Implementação do Algoritmo de Kruskal em Aeroportos nos Estados Unidos
 
 ### Descrição
 O projeto realizado como parte do curso "Algoritmos e Estruturas de Dados" no programa "Sistemas de Informação" na Universidade Federal de Pernambuco (UFPE) teve como objetivo desenvolver um algoritmo para determinar a Árvore Geradora Mínima (MST) dentro de um grafo ponderado não direcionado.
@@ -20,4 +20,4 @@ Neste grafo, nós foram utilizados para representar vários aeroportos nos Estad
 
 ## Contribuidores
 
-| [<br><sub>Vinicius Nobre</sub>](https://github.com/nxbrx) 
+ [<br><sub>Vinicius Nobre</sub>](https://github.com/nxbrx) 
