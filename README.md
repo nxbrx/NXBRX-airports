@@ -19,5 +19,4 @@ Neste grafo, nós foram utilizados para representar vários aeroportos nos Estad
 ![WhatsApp Image 2024-02-18 at 14 31 09](https://github.com/nxbrx/NXBRX-airports/assets/123251524/6936d8c8-4695-4f76-81a8-c019628d0bdb)
 
 ## Contribuidores
-
- [<br><sub>Vinicius Nobre</sub>](https://github.com/nxbrx) 
+[<br><sub>Vinicius Nobre</sub>](https://github.com/nxbrx) 
